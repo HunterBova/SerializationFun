@@ -9,9 +9,9 @@ To Run this project Download "TestBuild.zip", extract <br />
 the files, and run the SerializationFun Application <br />
 
 Controls for this game are: <br />
-- **W : ** To go in a door
-- **A : ** To move left
-- **D : ** To move right
+- **W :** To go in a door
+- **A :** To move left
+- **D :** To move right
 
 Other Considerations: <br />
 - If you move off of the stage you will have to restart the demo
