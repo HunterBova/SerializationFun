@@ -12,6 +12,7 @@ Controls for this game are: <br />
 - **W :** To go in a door
 - **A :** To move left
 - **D :** To move right
+- **Space :** To jump, Hold to jump higher
 
 Other Considerations: <br />
 - If you move off of the stage you will have to restart the demo
